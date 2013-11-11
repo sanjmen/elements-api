@@ -1,0 +1,9 @@
+*.swp
+*.pyc
+*.bak
+local_settings.py
+fabfile.py
+*.db
+cache/*
+*/site_media/media/*
+

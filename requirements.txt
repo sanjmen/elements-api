@@ -1,0 +1,7 @@
+Django==1.6
+requests==2.0.1
+PIL==1.1.7
+sorl-thumbnail==11.12
+django-tastypie==0.10.0
+python-dateutil==2.2
+mimeparse==0.1.3
